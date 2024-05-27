@@ -6,7 +6,7 @@
 
     @font-face {
         font-family: 'rick';
-        src: url('assets/get-schwifty.ttf') format('truetype');
+        src: url('assets/fonte-rick.ttf') format('truetype');
     }
 
     body{
@@ -157,7 +157,7 @@
 
     @font-face {
         font-family: 'rick';
-        src: url('get-schwifty.ttf') format('truetype');
+        src: url('assets/fonte-rick.ttf') format('truetype');
     }
     
     body{
