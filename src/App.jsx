@@ -62,6 +62,7 @@ function App() {
     <>
      <main>
         <h2 class="rick1">Rick and Morty</h2>
+        <h2 class="rick1">Rick and Morty</h2>
         <form action="" method="get">
           <input class="input1" type="text" placeholder="ID do personagem" disabled/>
           <input class="input2" type="number" ref={campoRef} />
